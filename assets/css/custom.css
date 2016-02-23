@@ -1,0 +1,41 @@
+body {
+  background-color: #00BCD4!important;
+  font-family: 'Abel', sans-serif;
+}
+
+.nav{
+	 color:#846C63;
+}
+
+.floating-button-custom{
+	background-color: #00BCD4;
+}
+
+.custom-sidebar{
+	background-color: #0097A7;
+}
+
+.icon {
+  position: absolute;
+  padding-top: 13px;
+  margin-right: 5px;
+}
+
+.brand-logo {
+  font-family: 'Abel', sans-serif;
+  text-transform: uppercase;
+  left:50px;
+}
+
+.create_an_event{
+	color: white;
+}
+
+.form-create{
+	color: white;
+}
+
+.nav-atas{
+	position: absolute;
+}
+
