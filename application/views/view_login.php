@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-      <title>Login SM Dashboard</title>
+      <title>Login SM Portal</title>
       <!-- Compiled and minified CSS -->
       <link rel="stylesheet" type="text/css" href="<?php echo base_url();?>assets/css/custom.css">
       <link rel="stylesheet" type="text/css" href="<?php echo base_url();?>assets/css/materialize.css">
